@@ -42,7 +42,7 @@ A Zig implementation of the AGiXT SDK for interacting with AGiXT API endpoints. 
 .{
     .dependencies = .{
         .agixt_sdk = .{
-            .url = "https://github.com/yourusername/AGiXT-Zig-SDK/archive/refs/tags/v0.1.0.tar.gz",
+            .url = "https://github.com/birdup000/AGiXT-Zig-SDK/archive/refs/tags/v0.1.0.tar.gz",
             // Add appropriate hash after release
         },
     },
