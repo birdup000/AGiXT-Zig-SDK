@@ -1,0 +1,59 @@
+# Zig build artifacts
+zig-cache/
+zig-out/
+zig-clone/
+
+# Generated files
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.so
+*.dylib
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Test coverage
+coverage/
+lcov.info
+
+# Project specific
+agixt-sdk
+agixt-sdk-example
+
+# Documentation directory
+docs/
+
+# Dependency directories
+deps/
+
+# Log files
+*.log
+
+# Environment files
+.env
+*.env
+.env.*
+
+# Temporary files
+tmp/
+temp/
